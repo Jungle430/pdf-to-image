@@ -13,10 +13,12 @@ pip install PyMuPDF
 ```
 
 - 使用方式
-
-  - 后面接pdf文件即可
-
+  - 将`pdf`文件移动至和`main.py`同一级文件目录
+  
+  - 后面接`pdf`文件名即可
+  
   - 例子：
+  
 
 ```shell
 python .\main.py .\chapter5.pdf
