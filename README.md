@@ -20,8 +20,12 @@ pip install PyMuPDF
   
   - 例子：
   
-
 ```shell
-python .\main.py .\chapter5.pdf
+python main.py chapter5.pdf
 ```
 
+---
+
+>2023-6-1
+
+- 附上相关模块的官网[PyMuPDF](https://pymupdf.readthedocs.io/en/latest)
